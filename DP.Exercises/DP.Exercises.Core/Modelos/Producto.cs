@@ -1,7 +1,6 @@
-﻿using System;
-using DP.Exercises.Core.Enumeradores;
+﻿using DP.Exercises.Core.Enumeradores;
 
-namespace DP.Exercises.Core
+namespace DP.Exercises.Core.Modelos
 {
     public class Producto
     {

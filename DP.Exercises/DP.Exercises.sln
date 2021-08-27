@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Excercises.Structural", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Console", "DP.Console\DP.Console.csproj", "{0F215CE3-5C2C-42A6-9EA1-5787CF31B54A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.Exercises.Core", "DP.Exercises.Core\DP.Exercises.Core.csproj", "{8D9160F2-9806-4E7B-86F1-7CDCB20A201F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Exercises.Core", "DP.Exercises.Core\DP.Exercises.Core.csproj", "{8D9160F2-9806-4E7B-86F1-7CDCB20A201F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

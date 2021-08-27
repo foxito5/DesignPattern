@@ -1,18 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
+using DP.Excercises.Structural.Decorator.PedidoExtra;
 
-namespace DP.Excercises.Structural
+namespace DP.Excercises.Structural.Decorator
 {
 	public class RunDecorator
 	{
-
-		List<Producto> Items;
-
 		public static void Execute()
         {
 
-
-            Console.WriteLine("Glenn soy yo");
+			RunDecoratorPedidos.Execute();
+          //  Console.WriteLine("Glenn soy yo");
         }
 	}
 }
+
+
