@@ -1,4 +1,5 @@
 ﻿using System;
+using DP.Excercises.Structural.Adapter;
 using DP.Excercises.Structural.Decorator;
 
 namespace DP.Console
@@ -7,7 +8,8 @@ namespace DP.Console
 	{
 		static void Main(string[] args)
 		{
-			RunDecorator.Execute();
+			//RunDecorator.Execute();
+			RunAdapter.Execute();
 		}
 	}
 }
