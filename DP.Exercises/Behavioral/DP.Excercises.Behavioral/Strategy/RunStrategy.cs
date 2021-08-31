@@ -1,4 +1,5 @@
 ﻿using DP.Excercises.Behavioral.Strategy.Math;
+using DP.Excercises.Behavioral.Strategy.MathFunc;
 
 namespace DP.Excercises.Behavioral.Strategy
 {
@@ -6,7 +7,8 @@ namespace DP.Excercises.Behavioral.Strategy
     {
         public static void Execute()
         {
-               RunStrategyMath.Execute();
+//               RunStrategyMath.Execute();
+               RunStrategyMathFunc.Execute();
         }
     }
 }
