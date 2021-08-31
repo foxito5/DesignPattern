@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Console", "DP.Console\DP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Exercises.Core", "DP.Exercises.Core\DP.Exercises.Core.csproj", "{8D9160F2-9806-4E7B-86F1-7CDCB20A201F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{3E8B4B93-E509-4EE7-872E-A548980B56D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.Excercises.Behavioral", "Behavioral\DP.Excercises.Behavioral\DP.Excercises.Behavioral.csproj", "{112C454D-732F-42D0-832A-180011986C36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +33,17 @@ Global
 		{8D9160F2-9806-4E7B-86F1-7CDCB20A201F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D9160F2-9806-4E7B-86F1-7CDCB20A201F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D9160F2-9806-4E7B-86F1-7CDCB20A201F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112C454D-732F-42D0-832A-180011986C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112C454D-732F-42D0-832A-180011986C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112C454D-732F-42D0-832A-180011986C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112C454D-732F-42D0-832A-180011986C36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1DBC4596-F0E8-43BA-8F32-413AAE8603AE} = {485C1423-4B3E-4191-A8B8-8E636EDC050C}
+		{112C454D-732F-42D0-832A-180011986C36} = {3E8B4B93-E509-4EE7-872E-A548980B56D5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB10495D-B118-4544-AF3A-A4DDE370B94E}

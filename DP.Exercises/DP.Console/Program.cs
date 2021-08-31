@@ -1,4 +1,5 @@
 ﻿using System;
+using DP.Excercises.Behavioral.Strategy;
 using DP.Excercises.Structural.Adapter;
 using DP.Excercises.Structural.Decorator;
 
@@ -9,7 +10,9 @@ namespace DP.Console
 		static void Main(string[] args)
 		{
 			//RunDecorator.Execute();
-			RunAdapter.Execute();
+			//			RunAdapter.Execute();
+			RunStrategy.Execute();
+
 		}
 	}
 }

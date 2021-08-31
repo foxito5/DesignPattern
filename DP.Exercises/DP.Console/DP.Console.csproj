@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Behavioral\DP.Excercises.Behavioral\DP.Excercises.Behavioral.csproj" />
     <ProjectReference Include="..\Structural\DP.Excercises.Structural\DP.Excercises.Structural.csproj" />
   </ItemGroup>
 
